@@ -7,7 +7,7 @@ import java.util.Scanner;
 
 /**
  *
- * @author Arthur Neves
+ * @author Arthur 
  */
 public class CaixaEletronico {
 
